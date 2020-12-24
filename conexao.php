@@ -12,4 +12,3 @@
         die("A conexão ao BD falhou!".mysqli_connect_error());
     }
 
-?>
